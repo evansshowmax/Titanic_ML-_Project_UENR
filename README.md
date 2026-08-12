@@ -165,7 +165,7 @@ Author/Team Members
 | Name | Index Number | GitHub Repository |
 |------|--------------|--------------------|
 | Evans Sarpong | UEB3517723 | https://github.com/evansshowmax/Titanic_ML-_Project_UENR |
-| Boah kenneth] | UEB3506023] | [GitHub link] |
+| Boah kenneth] | UEB3506023 | [GitHub link] |
 
 ---
 
